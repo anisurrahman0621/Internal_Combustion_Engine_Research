@@ -14,4 +14,4 @@ The pressure and volume were recorded every 0.2 degrees of the crank shaft for 2
 
 ### Missing Files
 
-The original csv files containing the pressures are not uploaded to the repository. I took this class a few years ago and had to change computers since then. I didn't fully recover all of the files I needed to. I also lost some of the functions/methods I created to simplify reptitive codes. I no longer have accesss to my courses from school so the program won't run on a different computer. 
+The original csv files containing the pressures are not uploaded to the repository. I conducted this research a few years ago and had to change computers since then. I didn't fully recover all of the files I needed to. I also lost some of the functions/methods I created to simplify reptitive codes. I no longer have accesss to my courses from school so the program won't run on a different computer. 
